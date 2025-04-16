@@ -12,14 +12,14 @@
 | 力                 | Force                           | \( F \)  |
 | 动量               | Momentum                        | \( p \)  |
 | 冲量               | Impulse                         | \( J \)  |
-| 动能               | Kinetic Energy                  | \( K \) 或 \( E_k \) |
-| 势能               | Potential Energy                | \( U \) 或 \( E_p \) |
+| 动能               | Kinetic Energy                  | \( K \) 或 $\( E_k \)$ |
+| 势能               | Potential Energy                | \( U \) 或 $\( E_p \)$ |
 | 功                 | Work                            | \( W \)  |
 | 功率               | Power                           | \( P \)  |
-| 角速度             | Angular Velocity                | \( \omega \) |
-| 角加速度           | Angular Acceleration            | \( \alpha \) |
+| 角速度             | Angular Velocity                | $\( \omega \)$ |
+| 角加速度           | Angular Acceleration            | $\( \alpha \)$ |
 | 转动惯量           | Moment of Inertia               | \( I \)  |
-| 扭矩               | Torque                          | \( \tau \) |
+| 扭矩               | Torque                          | $\( \tau \)$ |
 
 ---
 
@@ -61,12 +61,12 @@
 ### **波动与光学（Waves & Optics）**
 | **中文名称**       | **英文名称**                     | **符号** |
 |--------------------|----------------------------------|---------|
-| 波长               | Wavelength                      | \( \lambda \) |
-| 频率               | Frequency                       | \( f \) 或 \( \nu \) |
+| 波长               | Wavelength                      | $\( \lambda \)$ |
+| 频率               | Frequency                       | \( f \) 或 $\( \nu \)$ |
 | 周期               | Period                          | \( T \)  |
 | 波速               | Wave Speed                      | \( v \)  |
 | 振幅               | Amplitude                       | \( A \)  |
-| 相位               | Phase                           | \( \phi \) |
+| 相位               | Phase                           | $\( \phi \)$ |
 | 折射率             | Refractive Index                | \( n \)  |
 | 光强               | Light Intensity                 | \( I \)  |
 | 干涉               | Interference                    | -       |
@@ -81,7 +81,7 @@
 | 约化普朗克常数     | Reduced Planck Constant         | \( \hbar \) |
 | 波函数             | Wave Function                   | \( \Psi \) |
 | 能量量子化         | Energy Quantization             | \( E_n \) |
-| 德布罗意波长       | de Broglie Wavelength           | \( \lambda_{\text{dB}} \) |
+| 德布罗意波长       | de Broglie Wavelength           | $\( \lambda_{\text{dB}} \)$ |
 | 薛定谔方程         | Schrödinger Equation            | -       |
 
 ---
@@ -90,9 +90,9 @@
 | **中文名称**       | **英文名称**                     | **符号** |
 |--------------------|----------------------------------|---------|
 | 光速               | Speed of Light                  | \( c \)  |
-| 洛伦兹因子         | Lorentz Factor                  | \( \gamma \) |
+| 洛伦兹因子         | Lorentz Factor                  | $\( \gamma \)$ |
 | 时空坐标           | Spacetime Coordinates           | \( (t, x, y, z) \) |
-| 质能方程           | Mass-Energy Equivalence         | \( E = mc^2 \) |
+| 质能方程           | Mass-Energy Equivalence         | $\( E = mc^2 \)$ |
 
 ---
 
