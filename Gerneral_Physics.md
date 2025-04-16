@@ -1,4 +1,4 @@
-以下是大学物理中常用物理量的[中英文对照表](https://github.com/zju1229/Tsingsia516/General_Physics/sum_fast_search.md)，按学科分类整理：
+以下是大学物理中常用物理量的[中英文对照表](https://github.com/zju1229/Tsingsia516/blob/main/General_Physics/sum_fast_search.md)，按学科分类整理：
 
 ---
 
