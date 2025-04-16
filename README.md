@@ -20,4 +20,12 @@ Tsingsia229_OUTPUT          Tsingsia229
 └──────────────────┘                    └──────────────┘          └──────────────┘
 ```
 ## ——————————————————GATE————————————————
-- [Path_B目的地](https://github.com/zju1229/Tsingsia229/tree/main)
+- [Path_B目的地](https://github.com/zju1229/Tsingsia229/tree/main) 
+- [S229](https://github.com/zju1229/Tsingsia229/tree/main) ->229仓库(CS)
+- [S516](https://github.com/zju1229/Tsingsia516/tree/main) ->516仓库(MATH)
+
+---
+
+## ———————Path C 出境——————— 
+- [G1](https://github.com/zju1229) ->首页
+- [G11](https://github.com/BukSeong/58Glory) ->共享区
