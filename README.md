@@ -21,8 +21,9 @@ Tsingsia229_OUTPUT          Tsingsia229
 ```
 ## ——————————————————GATE————————————————
 - [Path_B目的地](https://github.com/zju1229/Tsingsia229/tree/main) 
-- [S229](https://github.com/zju1229/Tsingsia229/tree/main) ->229仓库(CS)
-- [S516](https://github.com/zju1229/Tsingsia516/tree/main) ->516仓库(MATH)
+- [S229](https://github.com/zju1229/Tsingsia229/tree/main)  [![Static Badge](https://img.shields.io/badge/%E7%A7%81%E6%9C%89%E4%BB%93%E5%BA%93-Tsingsia229-6699ff)](https://github.com/zju1229/Tsingsia229)  ->229仓库(CS)
+- [S516](https://github.com/zju1229/Tsingsia516/tree/main) [![Static Badge](https://img.shields.io/badge/%E7%A7%81%E6%9C%89%E4%BB%93%E5%BA%93-Tsingsia516-58cc12)](https://github.com/zju1229/Tsingsia516)
+->516仓库(MATH)
 
 ---
 
