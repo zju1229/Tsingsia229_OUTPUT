@@ -19,14 +19,17 @@ Tsingsia_OUTPUT          Tsingsia229
 |       ZJU        |==================->|    Github    |<-======->|    Github    |
 └──────────────────┘                    └──────────────┘   S229   └──────────────┘
 ```
+
+---
+
 ## ——————————————————GATE————————————————
-- [Path_B目的地](https://github.com/zju1229/Tsingsia229/tree/main) 
+### ———————Path B 境内———————
 - [S229](https://github.com/zju1229/Tsingsia229/tree/main)  [![Static Badge](https://img.shields.io/badge/%E7%A7%81%E6%9C%89%E4%BB%93%E5%BA%93-Tsingsia229-6699ff)](https://github.com/zju1229/Tsingsia229)  ->229仓库(CS)
 - [S516](https://github.com/zju1229/Tsingsia516/tree/main) [![Static Badge](https://img.shields.io/badge/%E7%A7%81%E6%9C%89%E4%BB%93%E5%BA%93-Tsingsia516-58cc12)](https://github.com/zju1229/Tsingsia516)
 ->516仓库(MATH)
 
 ---
 
-## ———————Path C 出境——————— 
-- [G1](https://github.com/zju1229) ->首页
+### ———————Path C 出境——————— 
+- [G1](https://github.com/zju1229) [![Static Badge](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-zju1229-cc99ff)](https://github.com/zju1229) ->首页
 - [G11](https://github.com/BukSeong/58Glory) ->共享区
