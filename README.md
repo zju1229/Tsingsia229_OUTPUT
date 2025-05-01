@@ -11,11 +11,27 @@ graph LR
   D -->|FAIL| E[Tsingsia OUTPUT]
   E -->|尝试访问| D
   E -->|G1| F[个人主页 zju1229]
-  F -->|G2| E
+  F -->|G1| E
   G[Visitors] --> E
   G --> F
 ```
 
+```mermaid
+graph LR
+  A[Tsingsia516] --> B[Pointset Topology]
+  A --> C[Mathematical Analysis]
+  A --> D[General Physics]
+  E[zju1229] -->|编写| A
+```
+
+```mermaid
+  A[Tsingsia229] --> B[Ass01]
+  A --> B[Ass02]
+  A --> C[Ass03]
+  A --> D[Proj1 Mandelbrot]
+  E[zju1229] -->|编写| A
+  A --> F[抽卡]
+```
 ---
 
 ## ——————————————————GATE————————————————
