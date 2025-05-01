@@ -26,7 +26,7 @@ graph LR
 
 ```mermaid
 graph LR
-  A[Tsingsia229] --> B[Ass01]
+  A[Tsingsia229] --> G[Ass01]
   A --> B[Ass02]
   A --> C[Ass03]
   A --> D[Proj1 Mandelbrot]
