@@ -9,7 +9,11 @@ graph LR
   A -->|S516| C[Tsingsia516仓库]
   D{Tsingsia Gate} -->|PASS| A
   D -->|FAIL| E[Tsingsia OUTPUT]
+  E -->|尝试访问| D
   E -->|G1| F[个人主页 zju1229]
+  F -->|G2| E
+  G[Visitors] --> E
+  G --> F
 ```
 
 ---
