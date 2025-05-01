@@ -25,6 +25,7 @@ graph LR
 ```
 
 ```mermaid
+graph LR
   A[Tsingsia229] --> B[Ass01]
   A --> B[Ass02]
   A --> C[Ass03]
