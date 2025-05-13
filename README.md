@@ -4,7 +4,7 @@
 ## 仓库拓扑图
 
 ```mermaid
-graph LR
+graph TD
   subgraph Private
     A[Tsingsia Private Part] -->|S229| B[Tsingsia229仓库]
     A -->|S516| C[Tsingsia516仓库]
@@ -35,7 +35,7 @@ graph LR
 ```
 
 ```mermaid
-graph TD
+graph LR
   E[zju1229] -->|编写| A[Tsingsia229]
   A --> B1[Ass01]
   A --> B2[Ass02]
@@ -53,7 +53,7 @@ graph TD
   end
   A --> F[抽卡]
 ```
-```
+
 ---
 
 ## ——————————————————GATE————————————————
