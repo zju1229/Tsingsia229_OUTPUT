@@ -26,16 +26,33 @@ graph LR
   A --> C[Mathematical Analysis]
   A --> D[General Physics]
   E[zju1229] -->|编写| A
+  B --> B1[Homework]
+  B --> B2[TopologyNote]    
+  D --> D1[PhysicsNote]  
+  D --> D2[单位对照表]
+  D --> D3[Question solve]
+  D --> D4[核心公式]
 ```
 
 ```mermaid
-graph LR
-  A[Tsingsia229] --> G[Ass01]
-  A --> B[Ass02]
-  A --> C[Ass03]
-  A --> D[Proj1 Mandelbrot]
-  E[zju1229] -->|编写| A
+graph TD
+  E[zju1229] -->|编写| A[Tsingsia229]
+  A --> B1[Ass01]
+  A --> B2[Ass02]
+  A --> B3[Ass03]
+  A --> B4[Ass04]
+  subgraph ass平时作业
+    B1
+    B2
+    B3
+    B4
+  end
+  A --> P1
+  subgraph proj项目作业
+    P1[Proj1 Mandelbrot]
+  end
   A --> F[抽卡]
+```
 ```
 ---
 
