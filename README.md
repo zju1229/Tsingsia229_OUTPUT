@@ -5,13 +5,17 @@
 
 ```mermaid
 graph LR
-  A[Tsingsia Private Part] -->|S229| B[Tsingsia229仓库]
-  A -->|S516| C[Tsingsia516仓库]
+  subgraph Private
+    A[Tsingsia Private Part] -->|S229| B[Tsingsia229仓库]
+    A -->|S516| C[Tsingsia516仓库]
+  end
   D{Tsingsia Gate} -->|PASS| A
   D -->|FAIL| E[Tsingsia OUTPUT]
-  E -->|尝试访问| D
-  E -->|G1| F[个人主页 zju1229]
-  F -->|G1| E
+  subgraph Public (Github)
+    E -->|尝试访问| D
+    E -->|G1| F[个人主页 zju1229]
+    F -->|G1| E
+  end
   G[Visitors] --> E
   G --> F
 ```
