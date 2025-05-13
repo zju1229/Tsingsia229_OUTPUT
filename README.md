@@ -11,7 +11,7 @@ graph LR
   end
   D{Tsingsia Gate} -->|PASS| A
   D -->|FAIL| E[Tsingsia OUTPUT]
-  subgraph Public (Github)
+  subgraph Public Github
     E -->|尝试访问| D
     E -->|G1| F[个人主页 zju1229]
     F -->|G1| E
